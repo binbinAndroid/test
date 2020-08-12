@@ -1,0 +1,19 @@
+JAVA基础：《Effective Java》《JAVA编程思想》《数据结构与算法分析》
+
+JAVA并发基础：《JAVA并发编程实践》
+
+Spring ：我还是建议看看源码，aop和ioc两条腿开始看
+
+Mysql ：《高性能mysql》《innodb技术内幕》
+
+Redis ：《Redis的设计与实现》
+
+Mq ：《Apache Kakfa实战》 《Rocketmq 实战与原理解析》《深入理解Kafka》
+
+分布式原理及Zookeeper：《从Paxos到Zookeeper》
+
+JVM ：《深入理解java虚拟机》
+
+设计模式 ：《大话设计模式》
+
+领域驱动设计 ：《实现领域驱动设计》
